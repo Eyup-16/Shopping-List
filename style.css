@@ -124,6 +124,16 @@ header h1 {
   cursor: pointer;
 }
 
+footer{
+  background-color: #444;
+  color: #fff;
+}
+.footer{
+text-align: center;
+font-size: 1.6rem;
+
+}
+
 @media (max-width: 500px) {
   .items li {
     width: 100%;
